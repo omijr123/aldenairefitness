@@ -18,7 +18,7 @@
 
 ### 🖼️ **App Preview**  
 <p align="center">  
-  <img src="[E:\aldenairefitness\Images\Screenshot 2025-04-17 012855.png](https://github.com/omijr123/aldenairefitness/blob/main/Screenshot%202025-04-17%20012855.png?raw=true)" width="300" alt="Workout Demo">  
+  <img src="https://i.ibb.co.com/DDfgXzCg/Screenshot-2025-04-17-012855.png" width="300" alt="Workout Demo">  
 </p>  
 
 ---
