@@ -58,4 +58,4 @@ Found a bug? Want a feature? Open an **issue** or submit a **PR**!
 ---  
 
 
-https://github.com/omijr123/aldenairefitness/blob/main/Screenshot%202025-04-17%20012855.png?raw=true
+https://raw.githubusercontent.com/omijr123/aldenairefitness/refs/heads/main/Screenshot%202025-04-17%20013613.png
