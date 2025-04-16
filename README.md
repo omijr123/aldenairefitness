@@ -18,7 +18,9 @@
 
 ### 🖼️ **App Preview**  
 <p align="center">  
-  <img src="https://i.ibb.co.com/DDfgXzCg/Screenshot-2025-04-17-012855.png" width="300" alt="Workout Demo">  
+  <img src="https://i.ibb.co.com/DDfgXzCg/Screenshot-2025-04-17-012855.png" width="300" alt="Workout Demo"> 
+  <img src="https://i.postimg.cc/jjTpCXtk/Screenshot-2025-04-17-013538.png" width="300" alt="Workout Demo"> 
+  
 </p>  
 
 ---
