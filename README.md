@@ -3,7 +3,7 @@
 **Transform Your Workouts in 30 Seconds**  
 
 <div align="center">  
-  <img src="https://img.shields.io/badge/Platform-Android-brightgreen?style=flat">  
+  <img src="C:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot 2025-04-16 215634.png">  
   <img src="https://img.shields.io/badge/Language-Java-orange?style=flat">  
 </div>  
 
