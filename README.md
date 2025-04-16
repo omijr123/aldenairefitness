@@ -18,7 +18,7 @@
 
 ### 🖼️ **App Preview**  
 <p align="center">  
-  <img src="C:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot 2025-04-17 012855.png" width="300" alt="Workout Demo">  
+  <img src="E:\aldenairefitness\Images\Screenshot 2025-04-17 012855.png" width="300" alt="Workout Demo">  
 </p>  
 
 ---
