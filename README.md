@@ -57,4 +57,5 @@ Found a bug? Want a feature? Open an **issue** or submit a **PR**!
 
 ---  
 
-Replace `screenshots/demo.gif` with your app’s GIF/video demo for maximum impact! 🎥
+
+https://github.com/omijr123/aldenairefitness/blob/main/Screenshot%202025-04-17%20012855.png?raw=true
