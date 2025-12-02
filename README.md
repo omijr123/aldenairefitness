@@ -10,8 +10,7 @@
 
 **Smart Interval Training App with Voice Guidance - Transform Your Body in Just 30-Second Intervals!**
 
-[![Download APK](https://img.shields.io/badge/📱_Download_APK-v1.0.0-green?style=for-the-badge)](https://github.com/yourusername/aldenaire-fitness/releases)
-[![Try Demo](https://img.shields.io/badge/🎯_Live_Demo-View_Here-blue?style=for-the-badge)](https://your-demo-link.com)
+
 
 </div>
 
@@ -80,9 +79,9 @@ Aldenaire Fitness is an innovative Android fitness application designed to make 
 | <img src="https://i.ibb.co.com/DDfgXzCg/Screenshot-2025-04-17-012855.png" width="200" alt="Home Dashboard"> | <img src="https://i.postimg.cc/jjTpCXtk/Screenshot-2025-04-17-013538.png" width="200" alt="Exercise Selection"> | <img src="https://i.postimg.cc/wBkSNmBx/Screenshot-2025-04-17-013551.png" width="200" alt="Active Workout"> |
 
 ### Additional Views
-| Progress Tracking | Settings | Workout Complete |
-|-------------------|----------|------------------|
-| <img src="https://i.postimg.cc/sfLb5y3W/Screenshot-2025-04-17-013603.png" width="200" alt="Progress Tracking"> | <img src="https://i.postimg.cc/FKGBzXP7/Screenshot-2025-04-17-013613.png" width="200" alt="Settings"> | <img src="https://via.placeholder.com/200x400/4CAF50/ffffff?text=Workout+Complete" width="200" alt="Workout Complete"> |
+| Progress Tracking | Settings | 
+|-------------------|----------|
+| <img src="https://i.postimg.cc/sfLb5y3W/Screenshot-2025-04-17-013603.png" width="200" alt="Progress Tracking"> | <img src="https://i.postimg.cc/FKGBzXP7/Screenshot-2025-04-17-013613.png" width="200" alt="Settings"> | 
 
 </div>
 
