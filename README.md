@@ -87,17 +87,7 @@ Aldenaire Fitness is an innovative Android fitness application designed to make 
 
 ## 📱 Installation
 
-### Method 1: Direct APK Installation
-1. **Download the APK** from the [Releases page](https://github.com/yourusername/aldenaire-fitness/releases)
-2. **Enable Unknown Sources**:
-   - Go to Settings → Security
-   - Enable "Install unknown apps" for your browser
-3. **Install the APK**:
-   - Open the downloaded file
-   - Tap "Install" and wait for completion
-4. **Launch the app** from your app drawer
-
-### Method 2: Build from Source (Developers)
+### Method 0: Build from Source (Developers)
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/aldenaire-fitness.git
